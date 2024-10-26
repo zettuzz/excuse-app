@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/excuse-app/static/css/main.bb7bde04.css",
+    "main.js": "/excuse-app/static/js/main.18661086.js",
+    "static/js/453.bedc6762.chunk.js": "/excuse-app/static/js/453.bedc6762.chunk.js",
+    "index.html": "/excuse-app/index.html",
+    "main.bb7bde04.css.map": "/excuse-app/static/css/main.bb7bde04.css.map",
+    "main.18661086.js.map": "/excuse-app/static/js/main.18661086.js.map",
+    "453.bedc6762.chunk.js.map": "/excuse-app/static/js/453.bedc6762.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb7bde04.css",
+    "static/js/main.18661086.js"
+  ]
+}
